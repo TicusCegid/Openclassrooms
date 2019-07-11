@@ -2,22 +2,5 @@
 _FING
 _FINS
 
-..saisie (assocrcap.qes)
-_FING
-_FINS
-
-..saisie (assocvn.qes)
-_FING
-ASSOCOMM1,b,20,"Ins‚rer un commentaire"
-..ifnot ASSOCOMM1 then ..goto suite
-_refresh _init
-
-_refresh ASSOCOMM1
-..texte assotestit1.sai
-
-_FINS
-
 ..etiq suite
 ..texte assocecap.hp3
-..texte assocrcap.hp3
-..texte assocvn.hp3
