@@ -1,0 +1,285 @@
+..edition
+..titre Compte d'emploi annuel des ressources
+..sommaire 1 Compte d'emploi annuel des ressources
+&-&l6D-(10U-(sp16.67h10vsbT-&a0L-&l0O-&l0L
+&-*v0n0O
+&-(sp16.67h10vsbT
+..if COMP then ..goto fin
+..ADDRECT 0.4471;1.2200;19.2500;0.9233;0.0212;1.0000;1.0000;16777215;0
+..ADDRECT 0.4471;4.5300;15.8696;14.8816;0.0212;1.0000;1.0000;15066597;0
+..ADDRECT 0.4471;5.3867;15.8696;13.2900;0.0212;0.0000;0.0000;16777215;0
+..ADDRECT 16.4159;4.5300;3.2804;14.8816;0.0212;1.0000;1.0000;15066597;0
+..ADDRECT 16.4159;5.3867;3.2804;13.2900;0.0212;0.0000;0.0000;16777215;0
+&-*c10G
+&-&a35.82r3.18C-*c1865.6a83b2P
+&-&a35.82r108.0C-*c379a83b2P
+..if CP02 then ..texte plprojet.hp3
+../* l. horizontal
+&-&a11.7r108C-*c382a1b0P
+&-&a37.5r3C-*c1872a3b0P
+&-&a37.5r108C-*c382a3b0P
+../* l. verticale
+&-&a10.7r79C-*c1a1758b0P
+&-&a10.7r93C-*c1a1758b0P
+&-&a11.7r121C-*c1a1705b0P
+../* l. renforcement 
+&-&a12.7r3C-*c1a1585b0P
+&-&a12.7r107.75C-*c1a1585b0P
+&-&a12.7r129.15C-*c1a1585b0P
+../* 
+&-(sp16.67h10vsbT-&a8r4C-(s1p9v0s3b4101T
+Art. 432-17
+&-(sp16.67h10vsbT-&a8r15C-(s1p9v0sb4101T
+Le compte d'emploi annuel des ressources collect‚es auprŠs du public conform‚ment … la loi nø 91-772 du 7 ao–t 1991 est ‚tabli selon le
+&-(sp16.67h10vsbT-&a9r4C-(s1p9v0sb4101T
+modŠle ci-dessous. Ce document est pr‚sent‚ aprŠs le compte de r‚sultat par origine et destination et les commentaires y aff‚rents, d‚fini aux articles
+&-(sp16.67h10vsbT-&a10r4C-(s1p9v0sb4101T
+432-2 … 432-16 du RÔGLEMENT ANC Nø 2018-06 du 5 d‚cembre 2018.
+&-(sp16.67h10vsbT-&a11.6r81C-(s1p9v0s3b4101T
+Exercice N
+&-(sp16.67h10vsbT-&a12.5r79.5C-(s1p9vsb4101T
+<DFIN     >
+&-(sp16.67h10vsbT-&a12.5r89C-(s1p9vsb4101T
+<a16 >
+&-(sp16.67h10vsbT-&a11.6r94C-(s1p9v0s3b4101T
+Exercice N-1
+&-(sp16.67h10vsbT-&a11.5r112C-(s1p9v0s3b4101T
+Ecart N / N-1
+&-(sp16.67h10vsbT-&a12.5r111C-(s1p9v0s3b4101T
+<monna>
+&-(sp16.67h10vsbT-&a12.5r124C-(s1p9v0s3b4101T
+%
+&-(sp16.67h10vsbT-&a12.5r93.5C-(s1p9vsb4101T
+<DFIN1    >
+&-(sp16.67h10vsbT-&a12.5r103C-(s1p9vsb4101T
+<a17 >
+..if not PROR then ..goto suite
+&-(sp16.67h10vsbT-&a6.8r125C-(s1p6vsb4101T
+*
+&-(sp16.67h10vsbT-&a64r5C-(s1p6vsb4101T
+*  Proratisation de l'‚cart en fonction du nombre de mois
+..prorat1 nbmoi
+..etiq suite
+..etiq fin
+..if not COMP then ..goto fin
+..ADDRECT 0.4471;1.2200;19.2500;0.9233;0.0212;1.0000;1.0000;16777215;0
+..ADDRECT 0.4471;4.5300;19.2374;14.8816;0.0212;1.0000;1.0000;15066597;0
+..ADDRECT 0.4471;5.3867;19.2374;13.3900;0.0212;0.0000;0.0000;16777215;0
+&-*c10G
+&-&a35.82r3.18C-*c2268.6a83b2P
+..if CP02 then ..texte plprojet.hp3
+../* l. horizontal
+&-&a37.5r3C-*c2270a3b0P
+../* l. verticale
+&-&a10.7r101C-*c1a1758b0P
+../* l. renforcement 
+&-&a12.7r3C-*c1a1582b0P
+&-&a12.7r129.12C-*c1a1582b0P
+../*
+&-(sp16.67h10vsbT-&a8r4C-(s1p9v0s3b4101T
+Art. 432-17
+&-(sp16.67h10vsbT-&a8r15C-(s1p9v0sb4101T
+Le compte d'emploi annuel des ressources collect‚es auprŠs du public conform‚ment … la loi nø 91-772 du 7 ao–t 1991 est ‚tabli selon le
+&-(sp16.67h10vsbT-&a9r4C-(s1p9v0sb4101T
+modŠle ci-dessous. Ce document est pr‚sent‚ aprŠs le compte de r‚sultat par origine et destination et les commentaires y aff‚rents, d‚fini aux articles
+&-(sp16.67h10vsbT-&a10r4C-(s1p9v0sb4101T
+432-2 … 432-16 du RÔGLEMENT ANC Nø 2018-06 du 5 d‚cembre 2018.
+&-(sp16.67h10vsbT-&a12.5r106C-(s1p9vs0b4101T
+<DFIN     >
+&-(sp16.67h10vsbT-&a12.5r116C-(s1p9vs0b4101T
+<a16 >mois
+..etiq fin
+&-&a0P-(sp16.67h10vsbT-&a1r3C-(s1p10vsb4101T
+<RAISONSOCIALE                                   >
+&-(sp16.67h10vsbT-&a2r3C-(s1p10vsb4101T
+<CPVILLE                                         >
+..if not ANALYTIQUE then ..goto suite
+&-(sp16.67h10vsbT-&a7.3r10C-(s1p10v0s0b4101T
+<CCENTRE> <NCENTRE                   >
+..etiq suite
+..if not PAG then ..goto suite
+..edition
+&-(sp16.67h10vsbT-&a1r110C-(s1p7vsb4101T
+Page : <$P>
+..ETIQ suite
+&-(sp16.67h10vsbT-&a4.4r8C-(s1p14v0s3b4101T
+COMPTE D'EMPLOI ANNUEL DES RESSOURCES
+
+&-(sp16.67h10vsbT-&a5L-&a12R-(s1p9vs3b4101T
+EMPLOIS PAR DESTINATION
+
+EMPLOIS DE L'EXERCICE
+
+1 - MISSIONS SOCIALES
+&-(s0B
+
+   1.1 R‚alis‚es en France
+   
+       - Actions r‚alis‚es par l'organisme
+       - Versements … un organisme central ou d'autres organismes agissant en France
+
+   1.2 R‚alis‚es … l'‚tranger
+   
+       - Actions r‚alis‚es par l'organisme
+       - Versements … un organisme central ou d'autres organismes agissant … l'‚tranger
+	  
+&-(s3B
+2 - FRAIS DE RECHERCHE DE FONDS
+&-(s0B
+
+   2.1 Frais d'appel … la g‚n‚rosit‚ du public
+   
+   2.2 Frais de recherche d'autres ressources
+   
+
+&-(s3B
+3 - FRAIS DE FONCTIONNEMENT
+
+TOTAL DES EMPLOIS
+
+4 - DOTATIONS AUX PROVISIONS ET DEPRECIATIONS
+
+5 - REPORTS EN FONDS DEDIES DE L'EXERCICE
+
+EXCEDENT DE LA GENEROSITE DU PUBLIC DE L'EXERCICE
+
+&-=
+TOTAL
+&-&l6D-(sp16.67h10vsbT-&a78L-&a16R
+..if not COMP then ..goto fin
+&-(sp16.67h10vsbT-&a103L-(sp10h10vsb3T
+..etiq fin
+..if FRCE then ..edition -1 2
+<SV6          >
+
+<SV7          >
+
+<SV8          >
+<SV9          >
+
+<SV1          >
+
+<SV2          >
+<SV3          >
+
+<SV4          >
+
+<SV5          >
+
+<SVz          >
+
+
+<SVz          >
+
+<SVz          >
+
+<SVz          >
+
+<SVz          >
+
+<SVz          >
+
+&-=
+<SVz          >
+..if COMP then ..goto fin
+&-&a92L-&a16R
+<SV6_1        >
+
+<SV7_1        >
+
+<SV8_1        >
+<SV9_1        >
+
+<SV1_1        >
+
+<SV2_1        >
+<SV3_1        >
+
+<SV4_1        >
+
+<SV5_1        >
+
+<SVz_1        >
+
+
+<SVz_1        >
+
+<SVz_1        >
+
+<SVz_1        >
+
+<SVz_1        >
+
+<SVz_1        >
+
+&-=
+<SVz_1        >
+&-&l6D-&a107L-&a16R
+<SV6_3       >
+
+<SV7_3       >
+
+<SV8_3       >
+<SV9_3       >
+
+<SV1_3       >
+
+<SV2_3       >
+<SV3_3       >
+
+<SV4_3       >
+
+<SV5_3       >
+
+<SVz_3       >
+
+
+<SVz_3       >
+
+<SVz_3       >
+
+<SVz_3       >
+
+<SVz_3       >
+
+<SVz_3       >
+
+&-=
+<SVz_3       >
+&-&a121L-&a16R
+<SV6_6 >
+
+<SV7_6 >
+
+<SV8_6 >
+<SV9_6 >
+
+<SV1_6 >
+
+<SV2_6 >
+<SV3_6 >
+
+<SV4_6 >
+
+<SV5_6 >
+
+<SVz_6 >
+
+
+<SVz_6 >
+
+<SVz_6 >
+
+<SVz_6 >
+
+<SVz_6 >
+
+<SVz_6 >
+
+&-=
+<SVz_6 >
+
+..etiq fin
+..prorat1 egal
+..//
+..calcul

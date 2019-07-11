@@ -1,0 +1,120 @@
+..edition
+..DOCNAME 
+..ADDPAGEFR Compte d'emploi annuel des ressources
+..ADDRECT 0.4471;1.2200;19.2500;0.9233;0.0212;1.0000;0.0001;16777215;0
+..ADDRECT 0.4471;4.5300;15.8696;14.8816;0.0212;1.0000;0.0001;15066597;0
+..ADDRECT 0.4471;5.3867;15.8696;13.3900;0.0212;0.0000;0.0000;16777215;0
+..ADDRECT 16.4159;4.5300;3.2804;14.8816;0.0212;1.0000;0.0001;15066597;0
+..ADDRECT 16.4159;5.3867;3.2804;13.3900;0.0212;0.0000;0.0000;16777215;0
+..ADDRECT 0.4845;15.1638;15.7954;0.7027;0.0000;0.0000;0.0000;15066597;0
+..ADDRECT 16.4559;15.1638;3.2089;0.7027;0.0000;0.0000;0.0000;15066597;0
+..ADDRECT 16.4559;4.9530;3.2343;0.0085;0.0000;0.0000;0.0000;0;0
+..ADDRECT 0.4571;15.1553;15.8496;0.0254;0.0000;0.0000;0.0000;0;0
+..ADDRECT 16.4559;15.1553;3.2343;0.0254;0.0000;0.0000;0.0000;0;0
+..ADDRECT 0.4571;15.8750;15.8496;0.0254;0.0000;0.0000;0.0000;0;0
+..ADDRECT 16.4559;15.8750;3.2343;0.0254;0.0000;0.0000;0.0000;0;0
+..ADDRECT 12.0372;4.5297;0.0085;14.8844;0.0000;0.0000;0.0000;0;0
+..ADDRECT 14.1704;4.5297;0.0085;14.8844;0.0000;0.0000;0.0000;0;0
+..ADDRECT 18.4367;4.9530;0.0085;14.4357;0.0000;0.0000;0.0000;0;0
+..ADDRECT 0.4571;5.3763;0.0085;13.4197;0.0000;0.0000;0.0000;0;0
+..ADDRECT 16.4178;5.3763;0.0085;13.4197;0.0000;0.0000;0.0000;0;0
+..ADDRECT 19.6785;5.3763;0.0085;13.4197;0.0000;0.0000;0.0000;0;0
+..ADDTEXT 0.6095;3.3867;"Art. 432-17";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;1.5346;"";0;"";FALSE;
+..ADDTEXT 2.2855;3.3867;"Le compte d'emploi annuel des ressources collect‚es auprŠs du public conform‚ment … la loi nø 91-772 du 7 ao–t 1991 est ‚tabli selon le";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;17.2905;"";0;"";FALSE;
+..ADDTEXT 0.6095;3.8100;"modŠle ci-dessous. Ce document est pr‚sent‚ aprŠs le compte de r‚sultat par origine et destination et les commentaires y aff‚rents, d‚fini aux articles";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;18.9177;"";0;"";FALSE;
+..ADDTEXT 0.6095;4.2333;"432-2 … 432-16 du RÔGLEMENT ANC Nø 2018-06 du 5 d‚cembre 2018.";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;9.3927;"";0;"";FALSE;
+..ADDTEXT 12.3419;4.9107;"Exercice N";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;1.4949;"";0;"";FALSE;
+..ADDTEXT 12.1134;5.2917;"<DFIN     >";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;1.4552;"";0;"";FALSE;
+..ADDTEXT 13.5609;5.2917;"<a16 >";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;1;FALSE;0.5556;"";0;"";FALSE;
+..ADDTEXT 14.3227;4.9107;"Exercice N-1";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;1.7595;"";0;"";FALSE;
+..ADDTEXT 17.0654;4.8683;"Ecart N / N-1";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;1.8124;"";0;"";FALSE;
+..ADDTEXT 16.9130;5.2917;"<monna>";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;0.8070;"";0;"";FALSE;
+..ADDTEXT 18.8938;5.2917;"%";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;0.3307;"";0;"";FALSE;
+..ADDTEXT 14.2466;5.2917;"<DFIN1    >";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;1.4552;"";0;"";FALSE;
+..ADDTEXT 15.6941;5.2917;"<a17 >";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;1;FALSE;0.5556;"";0;"";FALSE;
+..ADDTEXT 0.4571;0.4233;"<RAISONSOCIALE                                   >";0;"";"";"";"Times New Roman";10.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;4.5773;"";0;"";FALSE;
+..ADDTEXT 0.4571;0.8467;"<CPVILLE                                         >";0;"";"";"";"Times New Roman";10.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;4.3524;"";0;"";FALSE;
+..ADDTEXT 1.2190;1.8627;"COMPTE D'EMPLOI ANNUEL DES RESSOURCES";0;"";"";"";"Times New Roman";14.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;11.5094;"";0;"";FALSE;
+..ADDTEXT 0.7618;5.0800;"EMPLOIS PAR DESTINATION";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;4.4450;"";0;"";FALSE;
+..ADDTEXT 0.7618;5.9267;"EMPLOIS DE L'EXERCICE";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;4.0084;"";0;"";FALSE;
+..ADDTEXT 0.7618;6.7733;"1 - MISSIONS SOCIALES";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;3.6248;"";0;"";FALSE;
+..ADDTEXT 0.7618;7.6200;"   1.1 R‚alis‚es en France";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;3.2411;"";0;"";FALSE;
+..ADDTEXT 0.7618;8.4667;"       - Actions r‚alis‚es par l'organisme";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;4.8816;"";0;"";FALSE;
+..ADDTEXT 0.7618;8.8900;"       - Versements … un organisme central ou d'autres organismes agissant en France";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;10.5436;"";0;"";FALSE;
+..ADDTEXT 0.7618;9.7367;"   1.2 R‚alis‚es … l'‚tranger";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;3.3867;"";0;"";FALSE;
+..ADDTEXT 0.7618;10.5833;"       - Actions r‚alis‚es par l'organisme";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;4.8816;"";0;"";FALSE;
+..ADDTEXT 0.7618;11.0067;"       - Versements … un organisme central ou d'autres organismes agissant … l'‚tranger";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;10.6892;"";0;"";FALSE;
+..ADDTEXT 0.7618;11.4300;"	";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;0.2514;"";0;"";FALSE;
+..ADDTEXT 0.7618;11.8533;"2 - FRAIS DE RECHERCHE DE FONDS";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;5.6621;"";0;"";FALSE;
+..ADDTEXT 0.7618;12.7000;"   2.1 Frais d'appel … la g‚n‚rosit‚ du public";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;5.4769;"";0;"";FALSE;
+..ADDTEXT 0.7618;13.5467;"   2.2 Frais de recherche d'autres ressources";0;"";"";"";"Times New Roman";9.0000;400;FALSE;0;0.0000;0;"";0;0;FALSE;5.5166;"";0;"";FALSE;
+..ADDTEXT 0.7618;14.8167;"3 - FRAIS DE FONCTIONNEMENT";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;5.0271;"";0;"";FALSE;
+..ADDTEXT 0.7618;15.6633;"TOTAL DES EMPLOIS";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;3.3205;"";0;"";FALSE;
+..ADDTEXT 0.7618;16.5100;"4 - DOTATIONS AUX PROVISIONS ET DEPRECIATIONS";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;8.2418;"";0;"";FALSE;
+..ADDTEXT 0.7618;17.3567;"5 - REPORTS EN FONDS DEDIES DE L'EXERCICE";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;7.3554;"";0;"";FALSE;
+..ADDTEXT 0.7618;18.2033;"EXCEDENT DE LA GENEROSITE DU PUBLIC DE L'EXERCICE";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;9.2340;"";0;"";FALSE;
+..ADDTEXT 0.7618;19.2617;"TOTAL";0;"";"";"";"Times New Roman";9.0000;700;FALSE;0;0.0000;0;"";0;0;FALSE;1.0848;"";0;"";FALSE;
+..ADDTEXT 11.8848;6.7733;"<SV6          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;7.6200;"<SV7          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;8.4667;"<SV8          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;8.8900;"<SV9          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;9.7367;"<SV1          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;10.5833;"<SV2          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;11.0067;"<SV3          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;11.8533;"<SV4          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;12.7000;"<SV5          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;13.5467;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;14.8167;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;15.6633;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;16.5100;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;17.3567;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;18.2033;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 11.8848;19.2617;"<SVz          >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;6.7733;"<SV6_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;7.6200;"<SV7_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;8.4667;"<SV8_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;8.8900;"<SV9_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;9.7367;"<SV1_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;10.5833;"<SV2_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;11.0067;"<SV3_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;11.8533;"<SV4_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;12.7000;"<SV5_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;13.5467;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;14.8167;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;15.6633;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;16.5100;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;17.3567;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;18.2033;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 14.0180;19.2617;"<SVz_1        >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.2855;"";0;"";FALSE;
+..ADDTEXT 16.3035;6.7733;"<SV6_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;7.6200;"<SV7_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;8.4667;"<SV8_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;8.8900;"<SV9_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;9.7367;"<SV1_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;10.5833;"<SV2_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;11.0067;"<SV3_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;11.8533;"<SV4_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;12.7000;"<SV5_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;13.5467;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;14.8167;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;15.6633;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;16.5100;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;17.3567;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;18.2033;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 16.3035;19.2617;"<SVz_3       >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;2.1332;"";0;"";FALSE;
+..ADDTEXT 18.4367;6.7733;"<SV6_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;7.6200;"<SV7_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;8.4667;"<SV8_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;8.8900;"<SV9_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;9.7367;"<SV1_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;10.5833;"<SV2_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;11.0067;"<SV3_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;11.8533;"<SV4_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;12.7000;"<SV5_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;1;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;13.5467;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;14.8167;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;15.6633;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;16.5100;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;17.3567;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;18.2033;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
+..ADDTEXT 18.4367;19.2617;"<SVz_6 >";0;"";"";"";"Courier New";10.0000;400;FALSE;0;0.1524;0;"";0;0;FALSE;1.2190;"";0;"";FALSE;
